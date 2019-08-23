@@ -1,0 +1,18 @@
+.card {
+    background-color: #cc00ff;
+    color: #fae6ff;
+    border: 5px solid #660080;
+    border-radius: 7px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.3);
+    padding: 21px 15px;
+    margin-bottom: 21px;
+}
+
+.card a, .card a:visited {
+    text-decoration: none;
+    color: #520066;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
